@@ -2,8 +2,8 @@ package main
 
 import (
   "fmt"
-  "strconv"
   "os"
+  "strconv"
 )
 
 // It's a example without recursive function
@@ -11,7 +11,7 @@ func not_recursive_3n1(f int) int {
   var counter int = 1
 
   for {
-    if f % 2 == 0 {
+    if f%2 == 0 {
       f = f / 2
     } else {
       f = (f * 3) + 1
