@@ -1,4 +1,4 @@
-This code has as proposal to help to undestand better the pointer in Go.
+This code has as aim to help to understand better the pointer in Go.
 
 ### Output 
 ```
