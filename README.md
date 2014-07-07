@@ -1,4 +1,4 @@
 golang-exercise
 ===============
 
-I purpose to learn Golang, here put some exercise.
+Some exercises in order to learn Go (golang) programming language
